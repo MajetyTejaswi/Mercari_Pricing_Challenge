@@ -1,6 +1,5 @@
 # Mercari_Pricing_Challenge
 
-# Malware Detection
 [![Vijay Tulluri](https://img.shields.io/badge/Vijay-Tulluri-red.svg)](https://vijaytulluri.com/)
 [![MIT LICENSE](https://img.shields.io/badge/MIT-License-red.svg)](https://github.com/tullurivijay/Mercari_Pricing_Challenge/blob/master/LICENSE.MD)
 
