@@ -1,7 +1,7 @@
 # Mercari_Pricing_Challenge
 
 [![Vijay Tulluri](https://img.shields.io/badge/Vijay-Tulluri-red.svg)](https://vijaytulluri.com/)
-[Pranav Modem](https://img.shields.io/badge/Pranav%20-Modem-red.svg)
+[![Pranav Modem](https://img.shields.io/badge/Pranav%20-Modem-red.svg)](https://www.youtube.com/?gl=US)
 [![MIT LICENSE](https://img.shields.io/badge/MIT-License-red.svg)](https://github.com/tullurivijay/Malware_Detection/blob/master/LICENSE.MD)
 
 
