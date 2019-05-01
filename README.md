@@ -51,7 +51,7 @@ The importance of constructing mining-friendly data representations; Representat
 
 ### Pre-Processing Techniques
 - **Stop Word Removal:** stop words are terms that have little no meaning in a given text. Think of it as the "noise" of data. Such terms include the words, "the", "a", "an", "to", and etc...
-- **Bag of Words Representation: ** treats each word as a feature of the document
+- **Bag of Words Representation:** treats each word as a feature of the document
 
 - **TFIDF**: a common value representation of terms. It boosts or weighs words that have low occurences. For example, if the word "play" is common, then there is little to no boost. But if the word "mercari" is rare, then it has more boosts/weight. 
 
