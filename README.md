@@ -1,7 +1,6 @@
 # Mercari_Pricing_Challenge
 
-[![Vijay Tulluri](https://img.shields.io/badge/Vijay-Tulluri-red.svg)](https://vijaytulluri.com/)
-[![MIT LICENSE](https://img.shields.io/badge/MIT-License-red.svg)](https://github.com/tullurivijay/Mercari_Pricing_Challenge/blob/master/LICENSE.MD)
+
 
 [![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/0)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/0)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/1)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/1)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/2)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/2)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/3)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/3)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/4)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/4)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/5)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/5)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/6)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/6)[![](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/images/7)](https://sourcerer.io/fame/tullurivijay/tullurivijay/Mercari_Pricing_Challenge/links/7)
 
